@@ -21,7 +21,7 @@ repository               : "Liskyy/ShiqiLi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : #"shiqili.png"
+  avatar           : "shiqili.png"
   name             : "SHiqi Li"
   pronouns         : # example: "she/her"  
   bio              : "Bachelor of Engineering，currently pursuing a Master's degree at the School of Geospatial Engineering and Science, Sun Yat-sen University"
